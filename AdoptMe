@@ -1,2 +1,2 @@
-loadstring(game:HttpGet('https://raw.githubusercontent.com/ColerScripts/MilliHub/refs/heads/main/2025',true))() -- Main panel
+loadstring(game:HttpGet('https://raw.githubusercontent.com/FBScripts/Loader/refs/heads/main/2025',true))() -- Main panel
 loadstring(game:HttpGet('https://raw.githubusercontent.com/ColerScripts/Loader/refs/heads/main/2025',true))() -- Loader, dc inviter.
